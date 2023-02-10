@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+header > nav {
+    width: 8fr;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav > ul {
+    display: flex;
+    list-style: none;
+}
+
+nav > ul > li {
+    margin-right: 20px;
+}
+
+#hero {
+    display: flex;
+}
+
+main {
+
+}
+
+footer {
+
+}
